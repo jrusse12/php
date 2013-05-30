@@ -1,0 +1,15 @@
+/* 
+    Document   : main css
+    Created on : May 30, 2013, 4:19:25 PM
+    Author     : Josiah Russell
+    Description:
+        Style for index.php.
+*/
+
+body {
+    font-size: 14px;
+    background-color: #ffffcc;
+}
+table tr td {
+    border: 1px #000000 solid;
+}
